@@ -85,6 +85,9 @@ print_table "LOCUS 2 — resources-* (direct vs indirect)" \
 print_table "LOCUS 3 — fontobj-* (presence vs absence)" \
     font-object-present font-object-absent
 
+print_table "LOCUS 4 — ID-* (presence vs absence)" \
+    id_present id_absent
+
 
 # ── ALTERNATIVE A: Metadata ──────────────────────────────────
 print_table "ALTERNATIVE A — metadata-* (presence/absence)" \
