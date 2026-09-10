@@ -21,6 +21,7 @@ seq3-prev-info-root
 seq3-size-info-root
 seq3-size-prev-info
 seq3-size-prev-root
+seq-free-present
 seq-info-root
 seq-prev-info
 seq-prev-root

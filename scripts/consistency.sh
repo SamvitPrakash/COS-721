@@ -88,6 +88,9 @@ print_table "LOCUS 3 — fontobj-* (presence vs absence)" \
 print_table "LOCUS 4 — ID-* (presence vs absence)" \
     id_present id_absent
 
+print_table "LOCUS 4 — Sequence-* (presence vs absence)" \
+    seq-free-present seq-free-absent
+
 
 # ── ALTERNATIVE A: Metadata ──────────────────────────────────
 print_table "ALTERNATIVE A — metadata-* (presence/absence)" \

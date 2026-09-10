@@ -20,6 +20,7 @@ page-NO-lf
 page-NO-slash
 page-NO-spc
 resources-direct
+seq-free-absent
 stream-absent
 stream-NO-cr-lf
 stream-NO-cr-other
