@@ -100,6 +100,9 @@ print_table "LOCUS 7 — BleedBox specification style" \
 print_table "LOCUS 8 — Base encoding specification style" \
     encoding_present encoding_absent
 
+print_table "LOCUS 9 — /Prev-*" \
+    prev_present prev_absent
+
 # ── ALTERNATIVE A: Metadata ──────────────────────────────────
 print_table "ALTERNATIVE A — metadata-* (presence/absence)" \
     metadata-present metadata-absent
