@@ -10,6 +10,7 @@
       6 id_absent
       6 length-indirect
       6 length-NO-direct
+      6 n_absent
       6 objstm-no
       6 page-NO-compressed
       6 page-NO-cr-lf

@@ -10,6 +10,7 @@
      15 id_present
      15 length-direct
      15 length-NO-indirect
+     15 n_absent
      15 objstm-no
      15 page-lf
      15 page-NO-compressed

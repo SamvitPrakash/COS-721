@@ -10,6 +10,7 @@ font-object-present
 id_present
 length-direct
 length-NO-indirect
+n_absent
 objstm-no
 page-lf
 page-NO-compressed

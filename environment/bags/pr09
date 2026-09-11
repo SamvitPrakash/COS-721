@@ -13,6 +13,7 @@
       9 length-direct
      10 length-indirect
       1 length-NO-direct
+     10 n_absent
      10 objstm-no
      10 page-NO-compressed
      10 page-NO-cr-lf
