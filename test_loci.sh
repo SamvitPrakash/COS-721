@@ -14,7 +14,7 @@ n_absent="$OBS/marks/n_absent"
 
 
 # Indirect: /BleedBox [ ... ] followed by object-number generation-number R
-grep -laP '/Prev' "$SRC"/*.pdf 2>/dev/null \
+grep -laP '/Tabs/S/StructParents 0' "$SRC"/*.pdf 2>/dev/null \
   | sed 's|.*/||' | cut -c1-5 | sort -u > "$n_present"
 
 # Direct: everything else (pure-direct + the 8 absent docs)
