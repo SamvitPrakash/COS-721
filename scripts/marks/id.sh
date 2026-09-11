@@ -6,7 +6,7 @@ export WORK="$BASE/custom_marks"
 export OBS="$BASE/environment"
 
 # echo
-echo "--- Locus 3: Font object specification style ---"
+echo "--- Locus 4: ID specification style ---"
 
 ID_Present="$OBS/marks/id_present"
 ID_Absent="$OBS/marks/id_absent"
