@@ -12,8 +12,9 @@ bleedbox_present="$OBS/marks/bleedbox_present"
 bleedbox_absent="$OBS/marks/bleedbox_absent"
 
 
-# Indirect: /ID [ ... ] followed by object-number generation-number R
-grep -laP '/ID\s+\[(?:<[0-9A-Fa-f]+>\s*)+\]' "$SRC"/*.pdf 2>/dev/null \
+
+# Indirect: /BleedBox [ ... ] followed by object-number generation-number R
+grep -laP '/BleedBox\s+\[(\s[0-9]+)+\s\]' "$SRC"/*.pdf 2>/dev/null \
   | sed 's|.*/||' | cut -c1-5 | sort -u > "$bleedbox_present"
 
 # Direct: everything else (pure-direct + the 8 absent docs)
