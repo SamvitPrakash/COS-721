@@ -92,7 +92,7 @@ print_table "LOCUS 4 — Sequence-* (presence vs absence)" \
     seq-free-present seq-free-absent
 
 print_table "LOCUS 5 — %PDF-1-* (presence vs absence)" \
-    pdf-1.4-present pdf-1.4-absent
+    pdf-1.6-present pdf-1.6-absent
 
 
 # ── ALTERNATIVE A: Metadata ──────────────────────────────────
