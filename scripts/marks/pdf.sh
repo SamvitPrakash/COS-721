@@ -6,7 +6,7 @@ export WORK="$BASE/custom_marks"
 export OBS="$BASE/environment"
 
 # echo
-echo "--- Locus 5: %PDF-1.6 specification style ---"
+echo "--- Locus 6: %PDF-1.6 specification style ---"
 
 PDF_1_6_Present="$OBS/marks/pdf-1.6-present"
 PDF_1_6_Absent="$OBS/marks/pdf-1.6-absent"

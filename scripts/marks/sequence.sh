@@ -6,7 +6,7 @@ export WORK="$BASE/custom_marks"
 export OBS="$BASE/environment"
 
 # echo
-echo "--- Locus 4: Sequences specification style ---"
+echo "--- Locus 5: Sequences specification style ---"
 
 SEQ_Present="$OBS/marks/seq-free-present"
 SEQ_Absent="$OBS/marks/seq-free-absent"
