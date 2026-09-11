@@ -91,6 +91,9 @@ print_table "LOCUS 4 — ID-* (presence vs absence)" \
 print_table "LOCUS 4 — Sequence-* (presence vs absence)" \
     seq-free-present seq-free-absent
 
+print_table "LOCUS 5 — %PDF-1-* (presence vs absence)" \
+    pdf-1.6-present pdf-1.6-absent
+
 
 # ── ALTERNATIVE A: Metadata ──────────────────────────────────
 print_table "ALTERNATIVE A — metadata-* (presence/absence)" \
