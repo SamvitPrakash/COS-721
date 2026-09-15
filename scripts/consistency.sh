@@ -103,11 +103,5 @@ print_table "LOCUS 8 — Base encoding specification style" \
 print_table "LOCUS 9 — /Prev-*" \
     prev_present prev_absent
 
-# ── ALTERNATIVE A: Metadata ──────────────────────────────────
-print_table "ALTERNATIVE A — metadata-* (presence/absence)" \
-    metadata-present metadata-absent
-
-
-# ── ALTERNATIVE B: DecodeParms ───────────────────────────────
-print_table "ALTERNATIVE B — decodeparms-* (presence/absence)" \
-    decodeparms-present decodeparms-absent
+print_table "LOCUS 10 — xref specification style" \
+    xref_present xref_absent
