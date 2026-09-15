@@ -105,3 +105,6 @@ print_table "LOCUS 9 — /Prev-*" \
 
 print_table "LOCUS 10 — xref specification style" \
     xref_present xref_absent
+
+print_table "LOCUS 11 — /Tabs specification style" \
+    tabs_present tabs_absent

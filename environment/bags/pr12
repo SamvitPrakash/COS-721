@@ -46,6 +46,7 @@
      23 stream-NO-cr-other
      23 stream-NO-lf
      23 struct-yes
+     23 tabs_present
      23 type-NO-spc-slash
      23 type-slash
      23 xref_absent

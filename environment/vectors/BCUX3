@@ -27,6 +27,7 @@ stream-cr-lf
 stream-NO-cr-other
 stream-NO-lf
 struct-no
+tabs_absent
 type-NO-slash
 type-spc-slash
 xref_absent

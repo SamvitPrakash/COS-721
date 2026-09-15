@@ -30,6 +30,7 @@
      16 stream-NO-cr-lf
      16 stream-NO-cr-other
      16 struct-no
+     16 tabs_absent
      16 type-NO-slash
      16 type-spc-slash
      16 xref_absent

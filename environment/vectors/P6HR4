@@ -30,6 +30,7 @@ stream-lf
 stream-NO-cr-lf
 stream-NO-cr-other
 struct-yes
+tabs_present
 type-NO-spc-slash
 type-slash
 xref_absent

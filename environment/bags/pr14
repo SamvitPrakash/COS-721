@@ -30,6 +30,7 @@
     133 stream-NO-cr-lf
     133 stream-NO-cr-other
     133 struct-no
+    133 tabs_absent
     133 type-NO-slash
     133 type-spc-slash
     133 xref_absent

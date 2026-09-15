@@ -32,6 +32,7 @@
      11 stream-NO-cr-other
      11 stream-NO-lf
      11 struct-no
+     11 tabs_absent
      11 type-NO-slash
      11 type-spc-slash
      11 xref_absent
