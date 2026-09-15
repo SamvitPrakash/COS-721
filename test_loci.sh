@@ -4,8 +4,7 @@ export BASE="$PWD"
 export SRC="$BASE/dataset"
 export WORK="$BASE/custom_marks"
 export OBS="$BASE/environment"
-# '/Tabs/S/StructParents 0'
-# '/Group'
+
 # echo
 echo "--- Locus n: Base encoding specification style ---"
 
