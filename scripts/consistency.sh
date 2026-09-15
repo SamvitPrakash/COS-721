@@ -88,15 +88,23 @@ print_table "LOCUS 3 — fontobj-* (presence vs absence)" \
 print_table "LOCUS 4 — ID-* (presence vs absence)" \
     id_present id_absent
 
-print_table "LOCUS 4 — Sequence-* (presence vs absence)" \
+print_table "LOCUS 5 — Sequence-* (presence vs absence)" \
     seq-free-present seq-free-absent
 
+print_table "LOCUS 6 — %PDF-1-* (presence vs absence)" \
+    pdf-1.6-present pdf-1.6-absent
 
-# ── ALTERNATIVE A: Metadata ──────────────────────────────────
-print_table "ALTERNATIVE A — metadata-* (presence/absence)" \
-    metadata-present metadata-absent
+print_table "LOCUS 7 — BleedBox specification style" \
+    bleedbox_present bleedbox_absent
 
+print_table "LOCUS 8 — Base encoding specification style" \
+    encoding_present encoding_absent
 
-# ── ALTERNATIVE B: DecodeParms ───────────────────────────────
-print_table "ALTERNATIVE B — decodeparms-* (presence/absence)" \
-    decodeparms-present decodeparms-absent
+print_table "LOCUS 9 — /Prev-*" \
+    prev_present prev_absent
+
+print_table "LOCUS 10 — xref specification style" \
+    xref_present xref_absent
+
+print_table "LOCUS 11 — /Tabs specification style" \
+    tabs_present tabs_absent

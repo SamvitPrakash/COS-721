@@ -1,3 +1,5 @@
+bleedbox_absent
+encoding_present
 endobj-cr-lf
 endobj-NO-cr-other
 endobj-NO-lf
@@ -16,6 +18,8 @@ page-NO-gt
 page-NO-lf
 page-NO-slash
 page-NO-spc
+pdf-1.6-present
+prev_absent
 resources-indirect
 seq3-size-info-root
 seq-free-present
@@ -26,7 +30,9 @@ stream-cr-lf
 stream-NO-cr-other
 stream-NO-lf
 struct-no
+tabs_absent
 type-slash
 type-spc-slash
+xref_absent
 xref-yes
 xstream-no

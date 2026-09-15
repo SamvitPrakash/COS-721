@@ -1,3 +1,5 @@
+     24 bleedbox_absent
+     24 encoding_present
      24 endobj-lf
      24 endobj-NO-cr-lf
      24 endobj-NO-cr-other
@@ -16,6 +18,9 @@
      24 page-NO-lf
      24 page-NO-slash
      24 page-spc
+     21 pdf-1.6-absent
+      3 pdf-1.6-present
+     24 prev_absent
      24 resources-indirect
      24 seq3-size-info-root
      24 seq-free-present
@@ -26,7 +31,9 @@
      24 stream-NO-cr-other
      24 stream-NO-lf
      24 struct-no
+     24 tabs_absent
      24 type-NO-slash
      24 type-spc-slash
+     24 xref_absent
      24 xref-yes
      24 xstream-no
