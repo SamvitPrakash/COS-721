@@ -32,5 +32,6 @@
     133 struct-no
     133 type-NO-slash
     133 type-spc-slash
+    133 xref_absent
     133 xref-yes
     133 xstream-no

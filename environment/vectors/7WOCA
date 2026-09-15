@@ -48,5 +48,6 @@ stream-NO-lf
 struct-no
 type-NO-spc-slash
 type-slash
+xref_absent
 xref-yes
 xstream-yes

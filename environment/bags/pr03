@@ -33,5 +33,6 @@
       5 struct-no
       5 type-NO-slash
       5 type-spc-slash
+      5 xref_absent
       5 xref-yes
       5 xstream-no

@@ -48,5 +48,6 @@
      23 struct-yes
      23 type-NO-spc-slash
      23 type-slash
+     23 xref_absent
      23 xref-yes
      23 xstream-yes

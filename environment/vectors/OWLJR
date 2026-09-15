@@ -32,5 +32,6 @@ stream-NO-cr-other
 struct-no
 type-slash
 type-spc-slash
+xref_absent
 xref-yes
 xstream-no
