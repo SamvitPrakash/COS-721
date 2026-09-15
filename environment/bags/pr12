@@ -10,7 +10,7 @@
      23 id_absent
      23 length-direct
      23 length-NO-indirect
-     23 n_absent
+     23 n_present
      23 objstm-yes
      23 page-NO-compressed
      23 page-NO-cr-lf

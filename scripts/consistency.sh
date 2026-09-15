@@ -108,5 +108,5 @@ print_table "ALTERNATIVE A — metadata-* (presence/absence)" \
 print_table "ALTERNATIVE B — decodeparms-* (presence/absence)" \
     decodeparms-present decodeparms-absent
 
-print_table "LOCUS N — /BitsPerComponent 8 specification style" \
+print_table "LOCUS N — Test n loci specification style" \
     n_present n_absent

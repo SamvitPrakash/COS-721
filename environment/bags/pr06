@@ -10,7 +10,7 @@
       4 id_present
       4 length-indirect
       4 length-NO-direct
-      4 n_present
+      4 n_absent
       4 objstm-no
       4 page-cr-xx
       4 page-NO-compressed
